@@ -9,7 +9,7 @@ gem 'rails-api'
 gem "active_model_serializers"
 gem 'pg'
 
-
+gem 'devise'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
