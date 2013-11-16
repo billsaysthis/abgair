@@ -1,4 +1,5 @@
 class RobotsTxt
+  # From https://shellycloud.com/blog/2013/11/hide-your-staging-environment-from-google
   def self.call(env)
     # start building a new response
     response = Rack::Response.new
